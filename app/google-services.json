@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "729020068073",
+    "project_id": "autofirebase-be061",
+    "storage_bucket": "autofirebase-be061.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729020068073:android:af4706f9aa431fa70c4078",
+        "android_client_info": {
+          "package_name": "com.example.autofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729020068073-b63mgbbjh7v2s4pt9ojuvr0eksklak3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx0GhOzf1nm_zroIcUqg8fk3dFmscMn-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729020068073-b63mgbbjh7v2s4pt9ojuvr0eksklak3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729020068073:android:1c4e0616abea2fcf0c4078",
+        "android_client_info": {
+          "package_name": "com.example.solthrift"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729020068073-236u47ulpb28elqvaderft19sjjlejff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.solthrift",
+            "certificate_hash": "6b90e957b6cb41da8f1785bfe731e5aacc24757a"
+          }
+        },
+        {
+          "client_id": "729020068073-b63mgbbjh7v2s4pt9ojuvr0eksklak3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx0GhOzf1nm_zroIcUqg8fk3dFmscMn-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729020068073-b63mgbbjh7v2s4pt9ojuvr0eksklak3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
